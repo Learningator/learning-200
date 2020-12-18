@@ -34,15 +34,15 @@ El area donde más problemas es data science, donde 7 de 8 coaches encuentra dif
 
 Como podemos ver, el expertise del coach puede jugarle a favor o en contra.
 
-Una de las grandes ventajas es trabajar en equipos multidisciplinarios, por lo cual conseguir coaches que solo dirgina a estudiantes de data science no es una opción plausible.
+Una de las grandes ventajas es trabajar en equipos multidisciplinarios, por lo cual conseguir coaches que solo dirigan a estudiantes de su área de expertise le resta valor a la experiencia. 
 
-Otro problema es el tiempo que toma realizar un learning path. En promedio, un LP puede tomar de 4 a 5 horas. Esto esta sujeto a modificaciones y cambios de enfoque del estudiante. Según el testimonio de un coach, puede tomar hasta 12 horas hacer un LP con ajustes posteriores. 
+Otro problema es el tiempo que toma realizar un LP. En promedio, un LP puede tomar de 4 a 5 horas. Esto esta sujeto a modificaciones y cambios de enfoque del estudiante. Según el testimonio de un coach, puede tomar hasta 12 horas hacer un LP con ajustes posteriores. 
 
 Un problema adicional es que el modelo actual no es escalable porque a medida que se integren nuevos estudiantes a Platzi Master se necesitan más coaches generando manualmente nuevos LP.
 
 ## Solución :heavy_check_mark:
 
-Learning 200 automatiza la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Con esto podemos mejorar la experiencia del estudiante y dándole soporte al coach académico. De esta manera, el coach puede enfocarse en realizar acciones de seguimiento y apoyo del estudiante. 
+Learning 200 automatiza la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Con esto podemos mejorar la experiencia del estudiante y darle soporte al coach académico. De esta manera, el coach puede enfocarse en realizar acciones de seguimiento y apoyo del estudiante. 
 
 Al automatizar este proceso, podemos escalar el número de estudiantes que pueden ser atendidos a la vez. 
 
