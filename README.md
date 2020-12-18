@@ -4,7 +4,7 @@
 
 Learning 200 es la herramienta que revolucionará la manera en la que los estudiantes aprenden durante su paso en Platzi Master. Con esta herramienta, los procesos de generación de Learning Paths (LP) serán más exactos, rápidos y mejores para coaches, así como para sus estudiantes.
 
-### Problema a Resolver
+## Solución
 
 Cuando un estudiante de Platzi es seleccionado para el programa de élite Platzi Master, selecciona una área de interes: frontend, backend o data science. Consecuentemente, se le asigna un coach académico que hace seguimiento durante el proceso y genera un LP manualmente. En conjunto, el coach lidera a un equipo de diferentes areas para realizar un proyecto final.
 
@@ -40,18 +40,19 @@ Otro problema es el tiempo que toma realizar un learning path. En promedio, un L
 
 Un problema adicional es que el modelo actual no es escalable porque a medida que se integren nuevos estudiantes a Platzi Master se necesitan más coaches generando manualmente nuevos LP.
 
-### Este proyecto lo resuelve:
-Automatizando la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Por endem, mejorando la experiencia del estudiante y dándole soporte al coach académico. 
+## Solución
+
+Learning 200 automatiza la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Con esto podemos mejorar la experiencia del estudiante y dándole soporte al coach académico. De esta manera, el coach puede enfocarse en realizar acciones de seguimiento y apoyo del estudiante. 
 
 Al automatizar este proceso, podemos escalar el número de estudiantes que pueden ser atendidos a la vez. 
 
 El producto final es un generador de LP, teniendo en cuenta los conocimientos del estudiante, sus objetivos y experiencia.
 
-### Equipo:
+## Equipo:
 
 **Frontend:** Kevin Zea, Ulises Sámano
 **Backend e Ingenieria de Datos:** Joel Gaspar, David Jaramillo
 **Ciencia de Datos y Machine Learning:** Felipe Martinez, Xavier Carrera
 
-### Tecnologías utilizadas:
+## Tecnologías utilizadas:
 HTML, CSS, React, Node.js, Redux, Python, Librerías de Web Scraping, Librerías de ML, MySQL
