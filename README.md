@@ -16,7 +16,7 @@ El primer descubrimiento es que 5 coaches son Full Stack, 2 Frontend y 1 Backend
 
 ![Área Expertise](https://github.com/Learningator/learning-200-documentacion/blob/main/Captura%20de%20pantalla%20de%202020-12-18%2006-43-33.png)
 
-Cuando preguntamos sobre la dificultad general para hacer un LP promedio, la mayoría de los coaches enfrentaron una dificultad promedio:
+Cuando preguntamos sobre la dificultad general para hacer un LP promedio, la mayoría de los coaches enfrentaron una dificultad intermedia:
 
 ![Dificultad](https://github.com/Learningator/learning-200-documentacion/blob/main/Captura%20de%20pantalla%20de%202020-12-18%2006-44-53.png)
 
@@ -32,7 +32,7 @@ El area donde más problemas es data science, donde 7 de 8 coaches encuentra dif
 
 ![Dificultad data](https://github.com/Learningator/learning-200-documentacion/blob/main/Captura%20de%20pantalla%20de%202020-12-18%2006-45-06.png?raw=true)
 
-Como podemos ver, el expertise del coach puede jugar a favor o en contra del coach.
+Como podemos ver, el expertise del coach puede jugarle a favor o en contra.
 
 Una de las grandes ventajas es trabajar en equipos multidisciplinarios, por lo cual conseguir coaches que solo dirgina a estudiantes de data science no es una opción plausible.
 
