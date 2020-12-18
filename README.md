@@ -56,7 +56,11 @@ El mockup en Figma original de este flujo se puede consultar [aquí](https://www
 
 La arquitectura del proyecto es la siguiente: 
 
+![Arquitectura](https://github.com/Learningator/learning-200-documentacion/blob/main/Learning%20200%20arquitectura.png?raw=true)
 
+Utilizamos una arquitectura simple, la cual depende solo de los datos que se intercambia entre el servidor, Platzi y el algoritmo de Machine Learning. El cliente genera dos data points. Uno es la especialización deseada por el usuario y el otro es el perfil de estudiante. La especialización es mandada directamente al algoritmo de Machine Learning, mientras que el perfil es pedido a Platzi quien resuelve con una API que será consumida por el servidor y el modelo entrenado. 
+
+El algoritmo de machine learning regresa una respuesta que enlista una serie de cursos y retos para el estudiante durante el primer mes. Esta respuesta es mandada entonces al cliente para ser mostrada en la pantalla final de la interfaz. 
 
 ## Equipo :muscle:
 
