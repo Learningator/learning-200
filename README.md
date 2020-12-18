@@ -48,11 +48,30 @@ Al automatizar este proceso, podemos escalar el número de estudiantes que puede
 
 El producto final es un generador de LP, teniendo en cuenta los conocimientos del estudiante, sus objetivos y experiencia.
 
+El viaje de usuario es el siguiente:
+
+![Viaje de usuario](https://github.com/Learningator/learning-200-documentacion/blob/main/User_journey.png?raw=true)
+
+El mockup en Figma original de este flujo se puede consultar [aquí](https://www.figma.com/file/yKbJ5ibbh79TUOh2ZL7SSj/Learningator?node-id=0%3A1)
+
+La arquitectura del proyecto es la siguiente: 
+
+
+
 ## Equipo:
 
-**Frontend:** Kevin Zea, Ulises Sámano
-**Backend e Ingenieria de Datos:** Joel Gaspar, David Jaramillo
-**Ciencia de Datos y Machine Learning:** Felipe Martinez, Xavier Carrera
+**Kevin Zea:** Frontend, UX/UI
+
+**Ulises Sámano:** Frontend, Backend
+
+**Joel Gaspar:** Backend, Ingenieria de Datos
+
+**David Jaramillo:** Ingenieria y Arquitectura de Datos
+
+**Felipe Martinez** Data Science, Machine Learning
+
+**Xavier Carrera:** Data Science, Machine Learning
+
 
 ## Tecnologías utilizadas:
 HTML, CSS, React, Node.js, Redux, Python, Librerías de Web Scraping, Librerías de ML, MySQL
