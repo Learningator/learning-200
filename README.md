@@ -58,7 +58,7 @@ La arquitectura del proyecto es la siguiente:
 
 
 
-## Equipo: :muscle:
+## Equipo :muscle:
 
 - **Kevin Zea:** Frontend, UX/UI
 
@@ -73,7 +73,7 @@ La arquitectura del proyecto es la siguiente:
 - **Xavier Carrera:** Data Science, Machine Learning
 
 
-## Stack Tecnológico: :wrench:
+## Stack Tecnológico :wrench:
 - Javascript
 - ReactJS 
 - Node.js
