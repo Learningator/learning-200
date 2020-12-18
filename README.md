@@ -4,7 +4,7 @@
 
 Learning 200 es la herramienta que revolucionará la manera en la que los estudiantes aprenden durante su paso en Platzi Master. Con esta herramienta, los procesos de generación de Learning Paths (LP) serán más exactos, rápidos y mejores para coaches, así como para sus estudiantes.
 
-## Solución
+## Problema
 
 Cuando un estudiante de Platzi es seleccionado para el programa de élite Platzi Master, selecciona una área de interes: frontend, backend o data science. Consecuentemente, se le asigna un coach académico que hace seguimiento durante el proceso y genera un LP manualmente. En conjunto, el coach lidera a un equipo de diferentes areas para realizar un proyecto final.
 
