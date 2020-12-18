@@ -1,10 +1,10 @@
 # Learning 200 -- Hackathon Platzi Master
 
-## Sobre el Proyecto
+## Sobre el Proyecto :bulb:
 
 Learning 200 es la herramienta que revolucionará la manera en la que los estudiantes aprenden durante su paso en Platzi Master. Con esta herramienta, los procesos de generación de Learning Paths (LP) serán más exactos, rápidos y mejores para coaches, así como para sus estudiantes.
 
-## Problema
+## Problema :dart:
 
 Cuando un estudiante de Platzi es seleccionado para el programa de élite Platzi Master, selecciona una área de interes: frontend, backend o data science. Consecuentemente, se le asigna un coach académico que hace seguimiento durante el proceso y genera un LP manualmente. En conjunto, el coach lidera a un equipo de diferentes areas para realizar un proyecto final.
 
@@ -40,7 +40,7 @@ Otro problema es el tiempo que toma realizar un learning path. En promedio, un L
 
 Un problema adicional es que el modelo actual no es escalable porque a medida que se integren nuevos estudiantes a Platzi Master se necesitan más coaches generando manualmente nuevos LP.
 
-## Solución
+## Solución :heavy_check_mark:
 
 Learning 200 automatiza la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Con esto podemos mejorar la experiencia del estudiante y dándole soporte al coach académico. De esta manera, el coach puede enfocarse en realizar acciones de seguimiento y apoyo del estudiante. 
 
@@ -58,20 +58,30 @@ La arquitectura del proyecto es la siguiente:
 
 
 
-## Equipo:
+## Equipo: :muscle:
 
-**Kevin Zea:** Frontend, UX/UI
+- **Kevin Zea:** Frontend, UX/UI
 
-**Ulises Sámano:** Frontend, Backend
+- **Ulises Sámano:** Frontend, Backend
 
-**Joel Gaspar:** Backend, Ingenieria de Datos
+- **Joel Gaspar:** Backend, Ingenieria de Datos
 
-**David Jaramillo:** Ingenieria y Arquitectura de Datos
+- **David Jaramillo:** Ingenieria y Arquitectura de Datos
 
-**Felipe Martinez** Data Science, Machine Learning
+- **Felipe Martinez** Data Science, Machine Learning
 
-**Xavier Carrera:** Data Science, Machine Learning
+- **Xavier Carrera:** Data Science, Machine Learning
 
 
-## Tecnologías utilizadas:
-HTML, CSS, React, Node.js, Redux, Python, Librerías de Web Scraping, Librerías de ML, MySQL
+## Stack Tecnológico: :wrench:
+- Javascript
+- ReactJS 
+- Node.js
+- Python
+- Scrapy
+- Scickit Learn
+- AWS
+
+## Licencia :scroll:
+
+Este projecto está bajo Licenica MIT
