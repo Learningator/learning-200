@@ -80,6 +80,7 @@ El algoritmo de machine learning regresa una respuesta que enlista una serie de 
 ## Stack Tecnológico :wrench:
 - Javascript
 - ReactJS 
+- Sass
 - Node.js
 - Python
 - Scrapy
