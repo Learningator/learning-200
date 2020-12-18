@@ -82,6 +82,7 @@ El algoritmo de machine learning regresa una respuesta que enlista una serie de 
 - ReactJS 
 - Sass
 - Node.js
+- Postman
 - Python
 - Scrapy
 - Scickit Learn
