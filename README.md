@@ -18,6 +18,11 @@ Al automatizar este proceso, podemos escalar el número de estudiantes que puede
 
 El producto final es un generador de LP, teniendo en cuenta los conocimientos del estudiante, sus objetivos y experiencia.
 
+### Equipo:
+
+**Frontend:** Kevin Zea, Ulises Sámano
+**Backend e Ingenieria de Datos:** Joel Gaspar, David Jaramillo
+**Ciencia de Datos y Machine Learning:** Felipe Martinez, Xavier Carrera
 
 ### Tecnologías utilizadas:
 HTML, CSS, React, Node.js, Redux, Python, Librerías de Web Scraping, Librerías de ML, MySQL
