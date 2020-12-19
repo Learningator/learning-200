@@ -84,7 +84,10 @@ El algoritmo de machine learning regresa una respuesta que enlista una serie de 
 - Node.js
 - Postman
 - Python
-- Scrapy
+- Pandas
+- Requests
+- BeatifulSoup 4
+- Flask
 - Scickit Learn
 - AWS
 
