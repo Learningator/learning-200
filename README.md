@@ -90,7 +90,7 @@ El algoritmo de machine learning regresa una respuesta que enlista una serie de 
 - BeatifulSoup 4
 - Flask
 - Scickit Learn
-- AWS
+- Heroku
 
 ## Licencia :scroll:
 
