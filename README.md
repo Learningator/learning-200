@@ -1,8 +1,8 @@
-# Learning 200 -- Hackathon Platzi Master
+# Learningator -- Hackathon Platzi Master
 
 ## Sobre el Proyecto :bulb:
 
-Learning 200 es la herramienta que revolucionará la manera en la que los estudiantes aprenden durante su paso en Platzi Master. Con esta herramienta, los procesos de generación de Learning Paths (LP) serán 80% más rápidos y los coaches podrán brindar mayor acompañamiento a sus estudiantes.
+Learningator es la herramienta que revolucionará la manera en la que los estudiantes aprenden durante su paso en Platzi Master. Con esta herramienta, los procesos de generación de Learning Paths (LP) serán 80% más rápidos y los coaches podrán brindar mayor acompañamiento a sus estudiantes.
 
 ## Problema :dart:
 
@@ -40,7 +40,7 @@ El área donde más problemas es Data Science, donde 7 de 8 coaches encuentra di
 
 Como se puede ver, el expertise del coach puede estar a favor o en contra.
 
-Una de las grandes ventajas es trabajar en equipos multidisciplinarios, por lo cual conseguir coaches que solo dirigan a estudiantes de su área de expertise le resta valor a la experiencia. 
+Una de las grandes ventajas para un estudiante es trabajar en equipos multidisciplinarios, por lo cual conseguir coaches que solo dirigan a estudiantes de su área de expertise le resta valor a la experiencia. 
 
 Otro problema es el tiempo que toma realizar un LP. En promedio, un LP puede tomar de 4 a 5 horas. Esto esta sujeto a modificaciones y cambios de enfoque del estudiante. Según el testimonio de un coach, puede tomar hasta 12 horas hacer un LP con ajustes posteriores. 
 
@@ -48,7 +48,7 @@ Un problema adicional es que el modelo actual no es escalable porque a medida qu
 
 ## Solución :heavy_check_mark:
 
-Learning 200 automatiza la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Con esto podemos mejorar su experiencia y darle soporte al coach académico. De esta manera, el coach puede enfocarse en realizar acciones de seguimiento y apoyo al estudiante. 
+Learningator automatiza la creación de learning paths, recortando el tiempo de creación sin que dependa del conocimiento del coach académico respecto al área de interés del estudiante. Con esto podemos mejorar su experiencia y darle soporte al coach académico. De esta manera, el coach puede enfocarse en realizar acciones de seguimiento y apoyo al estudiante. 
 
 Al automatizar este proceso, es posible escalar el número de estudiantes que pueden ser atendidos a la vez. 
 
